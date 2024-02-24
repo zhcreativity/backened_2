@@ -11,5 +11,8 @@
     "backened"
   ],
   "author": "Zulqarnain Haider",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
