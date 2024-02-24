@@ -1,0 +1,15 @@
+{
+  "name": "backened_2",
+  "version": "1.0.0",
+  "description": "a first backened for application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backened"
+  ],
+  "author": "Zulqarnain Haider",
+  "license": "ISC"
+}
